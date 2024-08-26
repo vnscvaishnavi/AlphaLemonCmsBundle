@@ -59,8 +59,8 @@ AlphaLemon CMS [documentation repository](https://github.com/alphalemon/alphalem
 lives at github.
 
 
-Support
--------
+Support me
+-----------
 If you require support you can ask for help at [AlphaLemon CSM users forum](https://groups.google.com/forum/?hl=it#!forum/alphalemoncms-users).
 
 If you want to collaborate, just introduce yourself at [AlphaLemon CSM developers forum](https://groups.google.com/forum/?hl=it#!forum/alphalemoncms-dev).
